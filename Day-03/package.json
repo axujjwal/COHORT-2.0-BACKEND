@@ -1,10 +1,10 @@
 {
-  "name": "day-02",
+  "name": "day-03",
   "version": "1.0.0",
   "description": "",
-  "main": "node src/server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
@@ -14,4 +14,3 @@
     "express": "^5.2.1"
   }
 }
-
